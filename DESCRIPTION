@@ -1,0 +1,40 @@
+﻿
+Toolbox: guibuilder
+
+Title: GUI Builder
+
+Summary: A Graphic User Interface Builder
+
+Version: 4.2.1
+
+Author: Tan Chin Luh
+ David Violeau
+
+Maintainer: Chin Luh Tan <kailup4@hotmail.com>
+
+Category: GUI
+
+Entity: Trity Technogy , Lycée Saint Louis
+
+WebSite: http://www.tritytech.com/
+
+URL: http://atoms.scilab.org/toolboxes/guibuilder/4.2.1
+
+License: CeCILL
+
+ScilabVersion: >= 6.0
+
+Depends: 
+
+Date: 2017-12-1 23:00:00
+
+Description: GUI Builder is a Graphic User Interface Builder  under Scilab.
+ 
+ The program allows you to build your GUI quickly, and the code for the gui would
+ be generated automatically.
+
+ 
+ 
+  
+ 
+
